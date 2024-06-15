@@ -37,13 +37,15 @@ body::before {
 h1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
+    margin-bottom: 10vh;
 }
 
-.botoes {
-    display: flex;
-    gap: 20px;
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
 }
 
+.botao,
 .botao1,
 .botao2 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
